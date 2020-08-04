@@ -1,0 +1,23 @@
+{
+  "name": "Profile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^4.0.0",
+    "cross-env": "^7.0.2",
+    "jsdom": "^16.3.0",
+    "jsdom-global": "^3.0.2",
+    "require-extension-hooks": "^0.3.3",
+    "require-extension-hooks-babel": "^1.0.0",
+    "require-extension-hooks-vue": "^3.0.0"
+  }
+}
